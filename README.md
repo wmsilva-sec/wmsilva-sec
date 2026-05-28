@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.pinimg.com/originals/24/60/76/24607611488c3a96684ee3dbba5e916a.gif" width="300" alt="Killua Godspeed">
+  <img src="https://media.tenor.com/Y1mUu3p-0K0AAAAi/killua-hxh.gif" width="300" alt="Killua Godspeed">
 
   <h1> ⚡ Hi there! I'm Wallace Matheus (wmzera) </h1>
 
@@ -8,7 +8,7 @@
   
   <hr>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Graduado+em+Segurança+da+Informação+🎓;Foco+em+Blue+Team+e+Red+Team+🛡️;Desenvolvendo+scripts+em+Python+🐍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E5FF&width=435&lines=Graduado+em+Segurança+da+Informação+🎓;Foco+em+Blue+Team+e+Red+Team+🛡️;Desenvolvendo+scripts+em+Python+🐍" alt="Typing SVG" />
 
 </div>
 
@@ -25,25 +25,25 @@ Bem-vindo ao meu espaço digital. Sou graduado em **Segurança da Informação**
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-00FFFF?style=for-the-badge&logo=java&logoColor=black">
-  <img src="https://img.shields.io/badge/C-00FFFF?style=for-the-badge&logo=c&logoColor=black">
-  <img src="https://img.shields.io/badge/Linux-00FFFF?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/AWS-00FFFF?style=for-the-badge&logo=amazon-aws&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-00E5FF?style=for-the-badge&logo=python&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-00E5FF?style=for-the-badge&logo=java&logoColor=black">
+  <img src="https://img.shields.io/badge/C-00E5FF?style=for-the-badge&logo=c&logoColor=black">
+  <img src="https://img.shields.io/badge/Linux-00E5FF?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/AWS-00E5FF?style=for-the-badge&logo=amazon-aws&logoColor=black">
 </div>
 
 ---
 
 <div align="center">
   <br>
-  <img src="https://i.pinimg.com/originals/82/c4/f0/82c4f091c5cd70ec1af7ebef929c8e84.gif" width="300" alt="Killua Lightning">
+  <img src="https://media.tenor.com/Z8N4uH-q164AAAAi/killua.gif" width="300" alt="Killua Lightning">
   <br>
   <h3> (⚡_⚡) </h3>
   <i>Obrigado pela visita!</i>
   <br>
   <br>
   <a href="https://github.com/wmsilva-sec?tab=repositories">
-  <img src="https://img.shields.io/badge/Ver%20Meus%20Projetos-00FFFF?style=for-the-badge&logo=github&logoColor=black">
+  <img src="https://img.shields.io/badge/Ver%20Meus%20Projetos-00E5FF?style=for-the-badge&logo=github&logoColor=black">
   </a>
 </div>
 
