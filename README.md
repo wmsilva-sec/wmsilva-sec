@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="killua-top.gif" width="300" alt="Killua Godspeed">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVvZXk4ZDgwbjcyN3p1dGx0eTNoejdneGkxczB3ajNiZjRqODl6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/frSfC5NcmyF7q/giphy.gif" width="300">
 
   <h1> ⚡ Hi there! I'm Wallace Matheus (wmzera) </h1>
 
