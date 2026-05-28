@@ -13,7 +13,7 @@
 </div>
 
 ### 👾 About Me
-Bem-vindo ao meu github. Sou graduado em **Segurança da Informação** e atuo como **Analista de TI Júnior**. Meu objetivo atual é entender a fundo a defesa de ambientes para construir uma base forte (Blue Team/SOC) e, futuramente, explorar a segurança ofensiva.
+⚡Bem-vindo ao meu terminal. Sou um entusiasta de cibersegurança focado em blindar ambientes. A mesma teimosia que uso para zerar jogos soulslike, eu aplico hoje para caçar ameaças e fechar brechas na rede!
 
 * 🔭 **Atualmente estudando:** Python, C e me preparando para certificações (ISC2 CC, Security+, AWS).
 * 🌱 **Foco:** Criar scripts simples para automação, mapeamento e segurança defensiva.
