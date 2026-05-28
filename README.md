@@ -1,23 +1,23 @@
 <div align="center">
 
-  <img src="https://i.pinimg.com/originals/a7/63/c8/a763c87fdfebcfbb8d562dc62fc625d9.gif" width="300">
+  <img src="https://i.pinimg.com/originals/a7/63/c8/a763c87fdfebcfbb8d562dc62fc625d9.gif" width="300">
 
-  # ⚡ Hi there! I'm Wallace Matheus (wmzera)
+  <h1> ⚡ Hi there! I'm Wallace Matheus (wmzera) </h1>
 
-  ### ✨ Analista de TI Júnior & InfoSec Enthusiast ✨
-  
-  ---
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Graduado+em+Segurança+da+Informação+🎓;Foco+em+Blue+Team+e+Red+Team+🛡️;Desenvolvendo+scripts+em+Python+🐍" alt="Typing SVG" />
+  <h3> ✨ Analista de TI Júnior & InfoSec Enthusiast ✨ </h3>
+  
+  <hr>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Graduado+em+Segurança+da+Informação+🎓;Foco+em+Blue+Team+e+Red+Team+🛡️;Desenvolvendo+scripts+em+Python+🐍" alt="Typing SVG" />
 
 </div>
 
 ### 👾 About Me
 Bem-vindo ao meu espaço digital. Sou graduado em **Segurança da Informação** e atuo como **Analista de TI Júnior**. Meu objetivo atual é entender a fundo a defesa de ambientes para construir uma base forte (Blue Team/SOC) e, futuramente, explorar a segurança ofensiva.
 
-* 🔭 **Atualmente estudando:** Python, Java, C e me preparando para certificações (ISC2 CC, Security+, AWS).
+* 🔭 **Atualmente estudando:** Python, C e me preparando para certificações (ISC2 CC, Security+, AWS).
 * 🌱 **Foco:** Criar scripts simples para automação, mapeamento e segurança defensiva.
-* 💖 **Hobbies:** Treinar Jiu-jitsu, Literatura Brasileira e PC Gaming.
+* 💖 **Hobbies:** Treinar Jiu-jitsu, Ler livros, curto animes e jogo alguns games (soulslike).
 * ⚡ **Fun fact:** Utilizo o Obsidian para organizar todo o meu "Palácio Mental" de estudos técnicos!
 * Meu Linkedin: https://www.linkedin.com/in/wallacematheus/
 
