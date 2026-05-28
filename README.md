@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.pinimg.com/originals/a7/63/c8/a763c87fdfebcfbb8d562dc62fc625d9.gif" width="300">
+  <img src="https://i.pinimg.com/originals/24/60/76/24607611488c3a96684ee3dbba5e916a.gif" width="300" alt="Killua Godspeed">
 
   <h1> ⚡ Hi there! I'm Wallace Matheus (wmzera) </h1>
 
@@ -8,7 +8,7 @@
   
   <hr>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Graduado+em+Segurança+da+Informação+🎓;Foco+em+Blue+Team+e+Red+Team+🛡️;Desenvolvendo+scripts+em+Python+🐍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E5FF&width=435&lines=Graduado+em+Segurança+da+Informação+🎓;Foco+em+Blue+Team+e+Red+Team+🛡️;Desenvolvendo+scripts+em+Python+🐍" alt="Typing SVG" />
 
 </div>
 
@@ -35,27 +35,8 @@ Bem-vindo ao meu espaço digital. Sou graduado em **Segurança da Informação**
 ---
 
 <div align="center">
-  <br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FqZTIwYnhvZzQ1dG1uMTY2cTZiZjV2bWVlOWFzMTZ2dHJmMXB6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif" width="300">
-  <br>
-  <h3> (⌐■_■) </h3>
-  <i>Obrigado pela visita!</i>
-  <br>
-  <br>
-  <a href="https://github.com/wmsilva-sec?tab=repositories">
-  <img src="https://img.shields.io/badge/Ver%20Meus%20Projetos-00FF00?style=for-the-badge&logo=github&logoColor=black">
-  </a>
-</div>
-
-<div align="center"> 
   <br>
-  ⚡ ૮ ˶ᵔ ᵕ ᵔ˶ ა ⚡ <br>
-  <i>"A vida é a arte do encontro, embora haja tanto desencontro pela vida." — Vinicius de Moraes</i>
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FqZTIwYnhvZzQ1dG1uMTY2cTZiZjV2bWVlOWFzMTZ2dHJmMXB6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif" width="300">
+  <img src="https://i.pinimg.com/originals/82/c4/f0/82c4f091c5cd70ec1af7ebef929c8e84.gif" width="300" alt="Killua Lightning">
   <br>
   <h3> (⚡_⚡) </h3>
   <i>Obrigado pela visita!</i>
@@ -64,4 +45,10 @@ Bem-vindo ao meu espaço digital. Sou graduado em **Segurança da Informação**
   <a href="https://github.com/wmsilva-sec?tab=repositories">
   <img src="https://img.shields.io/badge/Ver%20Meus%20Projetos-00E5FF?style=for-the-badge&logo=github&logoColor=black">
   </a>
+</div>
+
+<div align="center"> 
+  <br>
+  ⚡ ૮ ˶ᵔ ᵕ ᵔ˶ ა ⚡ <br>
+  <i>"A vida é a arte do encontro, embora haja tanto desencontro pela vida." — Vinicius de Moraes</i>
 </div>
