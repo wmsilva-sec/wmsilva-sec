@@ -25,11 +25,11 @@ Bem-vindo ao meu espaço digital. Sou graduado em **Segurança da Informação**
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-00E5FF?style=for-the-badge&logo=python&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-00E5FF?style=for-the-badge&logo=java&logoColor=black">
+  <img src="https://img.shields.io/badge/C-00E5FF?style=for-the-badge&logo=c&logoColor=black">
+  <img src="https://img.shields.io/badge/Linux-00E5FF?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/AWS-00E5FF?style=for-the-badge&logo=amazon-aws&logoColor=black">
 </div>
 
 ---
@@ -47,8 +47,21 @@ Bem-vindo ao meu espaço digital. Sou graduado em **Segurança da Informação**
   </a>
 </div>
 
-<div align="center"> 
-  <br>
-  ʕ •ᴥ•ʔゝ☆ <br>
-  <i>"A vida é a arte do encontro, embora haja tanto desencontro pela vida." — Vinicius de Moraes</i>
+<div align="center"> 
+  <br>
+  ⚡ ૮ ˶ᵔ ᵕ ᵔ˶ ა ⚡ <br>
+  <i>"A vida é a arte do encontro, embora haja tanto desencontro pela vida." — Vinicius de Moraes</i>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FqZTIwYnhvZzQ1dG1uMTY2cTZiZjV2bWVlOWFzMTZ2dHJmMXB6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif" width="300">
+  <br>
+  <h3> (⚡_⚡) </h3>
+  <i>Obrigado pela visita!</i>
+  <br>
+  <br>
+  <a href="https://github.com/wmsilva-sec?tab=repositories">
+  <img src="https://img.shields.io/badge/Ver%20Meus%20Projetos-00E5FF?style=for-the-badge&logo=github&logoColor=black">
+  </a>
 </div>
