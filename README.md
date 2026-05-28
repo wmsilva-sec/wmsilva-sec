@@ -1,70 +1,54 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=whoami;Wallace+Silva+(wmzera);Analista+de+TI+%7C+InfoSec;Hacking+the+world..." alt="Typing SVG" />
+
+  <img src="https://i.pinimg.com/originals/a7/63/c8/a763c87fdfebcfbb8d562dc62fc625d9.gif" width="300">
+
+  # ⚡ Hi there! I'm Wallace Matheus (wmzera)
+
+  ### ✨ Analista de TI Júnior & InfoSec Enthusiast ✨
+  
+  ---
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Graduado+em+Segurança+da+Informação+🎓;Foco+em+Blue+Team+e+Red+Team+🛡️;Desenvolvendo+scripts+em+Python+🐍" alt="Typing SVG" />
+
 </div>
 
-<br>
+### 👾 About Me
+Bem-vindo ao meu espaço digital. Sou graduado em **Segurança da Informação** e atuo como **Analista de TI Júnior**. Meu objetivo atual é entender a fundo a defesa de ambientes para construir uma base forte (Blue Team/SOC) e, futuramente, explorar a segurança ofensiva.
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/a7/63/c8/a763c87fdfebcfbb8d562dc62fc625d9.gif" width="350" alt="Cybersec GIF">
-</div>
-
-<br>
-
-<div align="center">
-  <i>"A vida é a arte do encontro, embora haja tanto desencontro pela vida." — Vinicius de Moraes</i>
-</div>
+* 🔭 **Atualmente estudando:** Python, Java, C e me preparando para certificações (ISC2 CC, Security+, AWS).
+* 🌱 **Foco:** Criar scripts simples para automação, mapeamento e segurança defensiva.
+* 💖 **Hobbies:** Treinar Jiu-jitsu, Literatura Brasileira e PC Gaming.
+* ⚡ **Fun fact:** Utilizo o Obsidian para organizar todo o meu "Palácio Mental" de estudos técnicos!
+* Meu Linkedin: https://www.linkedin.com/in/wallacematheus/
 
 ---
 
-### 👾 Sobre Mim
-
-Bem-vindo ao meu jardim digital! Sou graduado em **Segurança da Informação** e atualmente atuo como **Analista de TI Júnior**. Gosto de entender como a infraestrutura funciona por baixo dos panos para criar uma base sólida (Blue Team/SOC) antes de começar a quebrar as coisas no futuro (Red Team).
-
-* 🔭 **Foco:** Defesa cibernética e criação de scripts simples em Python para automatizar o trabalho sujo.
-* 📚 **Estudando:** Java, C e preparatório para certificações (ISC2 CC, Security+, AWS).
-* 🥋 **Hobbies:** Lutar Jiu-jitsu (sempre cuidando do kimono pro tatame!) e ler literatura brasileira.
-
----
-
-### 🛠️ Tech Stack & Arsenal
-
+### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div>
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
-  <!-- Usando o link em Markdown puro aqui evita o bug da imagem quebrada do Vercel -->
-  <a href="https://github.com/wmsilva-sec">
-    <img src="https://github-readme-stats.vercel.app/api?username=wmsilva-sec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  </a>
-  <a href="https://github.com/wmsilva-sec">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmsilva-sec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  </a>
+  <br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FqZTIwYnhvZzQ1dG1uMTY2cTZiZjV2bWVlOWFzMTZ2dHJmMXB6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif" width="300">
+  <br>
+  <h3> (⌐■_■) </h3>
+  <i>Obrigado pela visita!</i>
+  <br>
+  <br>
+  <a href="https://github.com/wmsilva-sec?tab=repositories">
+  <img src="https://img.shields.io/badge/Ver%20Meus%20Projetos-00FF00?style=for-the-badge&logo=github&logoColor=black">
+  </a>
 </div>
 
----
-
-<br>
-
-<div align="center">
-  <h3> (⌐■_■) </h3>
-  <p><i>Obrigado pela visita!</i></p>
-  
-  <a href="https://github.com/wmsilva-sec?tab=repositories">
-    <img src="https://img.shields.io/badge/VER_MEUS_PROJETOS-00FF00?style=for-the-badge&logo=github&logoColor=black" alt="Ver Projetos">
-  </a>
-  
-  <br><br>
-  
-  <a href="https://www.linkedin.com/in/wallacematheus/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+<div align="center"> 
+  <br>
+  ʕ •ᴥ•ʔゝ☆ <br>
+  <i>"A vida é a arte do encontro, embora haja tanto desencontro pela vida." — Vinicius de Moraes</i>
 </div>
