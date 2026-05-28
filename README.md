@@ -36,7 +36,8 @@ Bem-vindo ao meu espaço digital. Sou graduado em **Segurança da Informação**
 
 <div align="center">
   <br>
-  <img src="killua-bot.gif" width="300" alt="Killua Lightning">
+<img width="350" height="197" alt="killuagped gif" src="https://github.com/user-attachments/assets/bbb7cb49-dfde-4405-bfb0-20b7b2dacb1d" />
+
   <br>
   <h3> (⚡_⚡) </h3>
   <i>Obrigado pela visita!</i>
