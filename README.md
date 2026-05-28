@@ -2,7 +2,7 @@
 
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVvZXk4ZDgwbjcyN3p1dGx0eTNoejdneGkxczB3ajNiZjRqODl6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/frSfC5NcmyF7q/giphy.gif" width="300">
 
-  <h1> ⚡ Hi there! I'm Wallace Matheus (wmzera) </h1>
+  <h1> ⚡ Hi there! I'm Wallace Silva </h1>
 
   <h3> ✨ Analista de TI Júnior & InfoSec Enthusiast ✨ </h3>
   
@@ -13,7 +13,7 @@
 </div>
 
 ### 👾 About Me
-Bem-vindo ao meu espaço digital. Sou graduado em **Segurança da Informação** e atuo como **Analista de TI Júnior**. Meu objetivo atual é entender a fundo a defesa de ambientes para construir uma base forte (Blue Team/SOC) e, futuramente, explorar a segurança ofensiva.
+Bem-vindo ao meu github. Sou graduado em **Segurança da Informação** e atuo como **Analista de TI Júnior**. Meu objetivo atual é entender a fundo a defesa de ambientes para construir uma base forte (Blue Team/SOC) e, futuramente, explorar a segurança ofensiva.
 
 * 🔭 **Atualmente estudando:** Python, C e me preparando para certificações (ISC2 CC, Security+, AWS).
 * 🌱 **Foco:** Criar scripts simples para automação, mapeamento e segurança defensiva.
