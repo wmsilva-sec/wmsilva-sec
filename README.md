@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media.tenor.com/Y1mUu3p-0K0AAAAi/killua-hxh.gif" width="300" alt="Killua Godspeed">
+  <img src="killua-top.gif" width="300" alt="Killua Godspeed">
 
   <h1> ⚡ Hi there! I'm Wallace Matheus (wmzera) </h1>
 
@@ -36,7 +36,7 @@ Bem-vindo ao meu espaço digital. Sou graduado em **Segurança da Informação**
 
 <div align="center">
   <br>
-  <img src="https://media.tenor.com/Z8N4uH-q164AAAAi/killua.gif" width="300" alt="Killua Lightning">
+  <img src="killua-bot.gif" width="300" alt="Killua Lightning">
   <br>
   <h3> (⚡_⚡) </h3>
   <i>Obrigado pela visita!</i>
