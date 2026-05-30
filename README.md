@@ -17,7 +17,7 @@
 
 * 🔭 **Atualmente estudando:** Python, C e me preparando para certificações (ISC2 CC, Security+, AWS).
 * 🌱 **Foco:** Criar scripts simples para automação, mapeamento e segurança defensiva.
-* 💖 **Hobbies:** Treinar Jiu-jitsu, Ler livros, curto animes e jogo alguns games (soulslike).
+* 🔥 **Hobbies:** Treinar Jiu-jitsu, Ler livros, curto animes e jogo alguns games (soulslike).
 * ⚡ **Fun fact:** A disciplina do Jiu-jitsu é a mesma que levo para o Blue Team: calma sob pressão e foco na resolução.
 * Meu Linkedin: https://www.linkedin.com/in/wallacematheus/
 
